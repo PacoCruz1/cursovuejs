@@ -1,7 +1,11 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+    <HelloWorld msg="Hola Mundo"></HelloWorld>
   </div>
 </template>
+
+<script type="text/javascript"  src="./Scripts/app.js"></script>
+
+<style src="./Styles/CSS/app.css"></style>
 
 
